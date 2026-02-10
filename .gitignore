@@ -1,0 +1,20 @@
+# Data files (too large for git)
+data/raw/*
+data/processed/*
+*.h5ad
+*.h5
+*.csv
+*.tsv
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
